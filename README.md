@@ -41,15 +41,15 @@ Recientemente finalicé un BootCamp intensivo de JavaScript y otros lenguajes de
 
 <h2>🚀Mis Proyectos:</h2> 
 <h4>Videogames App(Fullstack)</h4>
-React-Redux | NodeJS | PostgreSQL
+React-Redux | NodeJS | PostgreSQL<br> 
 SPA donde se puede buscar, filtrar, ordenar y hasta crear videojuegos!<br>
-API: rawg
+API: rawg<br> 
 https://pi-videogames-psi.vercel.app)/<br>
 
 <h4>Bring it App(Fullstack)</h4>
-React-Redux | NodeJS | PostgreSQL
-E-commerce donde las ventas son transportadas por los mismos usuarios.
-https://bring-it-app.vercel.app
+React-Redux | NodeJS | PostgreSQL<br> 
+E-commerce donde las ventas son transportadas por los mismos usuarios.<br> 
+https://bring-it-app.vercel.app<br> 
 <br>
 <br>
 
