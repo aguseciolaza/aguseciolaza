@@ -54,5 +54,5 @@ https://bring-it-app.vercel.app
 <br>
 
 <h2>📫Mis Links:</h2>
-My LinkedIn: https://www.linkedin.com/in/agustina-eciolaza
+My LinkedIn: https://www.linkedin.com/in/agustina-eciolaza<br> 
 My E-mail: eciolazaagustina@gmail.com<br> 
